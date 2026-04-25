@@ -2,8 +2,6 @@
 
 An AI-powered data analyst that lets you upload CSV files and chat with your data in real-time. Built with RAG (Retrieval-Augmented Generation) — no vector database needed.
 
-![Upload Screen](screenshots/upload-screen.png)
-
 ---
 
 ## Features
